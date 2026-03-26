@@ -113,7 +113,6 @@ function drawRunwayAxis(runwayName, phase) {
     opacity: 0.9,
     dashArray: "10, 10"
   }).addTo(map);
-}
 
 /* ----------------------------------------------------------
    SONOMÈTRES
